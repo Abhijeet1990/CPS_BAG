@@ -13,3 +13,6 @@ Sl no.	FileName					Purpose
 12.	createORtable.m					Create OR CPT as per Eqn 2 in report.
 13.	drawRandomCVSS.m				Selection of some random CVSS scores.
 14. 	results.xlsx					Plots made in Excel hence, the outputs and plots used in the report from the excel file.
+
+
+The research publication for the following repository is available at [Inferring adversarial behaviour in cyber-physical power systems using a Bayesian attack graph approach](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cps2.12047).
